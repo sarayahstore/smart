@@ -62,4 +62,4 @@ if uploaded_file is not None:
             except Exception as e:
                 st.error("حدث خطأ أثناء معالجة الصورة في الخادم.")
 
-st.markdown("<hr><p style='text-align: center; font-family: Consolas; color: #94a3b8; font-style: italic;'>Designed by: Js</p>", unsafe_allow_html=True)
+st.markdown("<hr><p style='text-align: center; font-family: Consolas; color: #94a3b8; font-style: italic;'>Designed by: OSMAN ABBAS 2027</p>", unsafe_allow_html=True)
